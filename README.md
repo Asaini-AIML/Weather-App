@@ -2,7 +2,8 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://weather-app-delta-steel.vercel.app/)
 
-![Weather App Demo](A:\College\Web-D\Project\Weather-App\images\AnimationWeather.gif)
+![Weather App Demo](./images/AnimationWeather.gif)
+<img src="./images/AnimationWeather.gif" width="600" height="400" alt="Weather App Demo">
 
 This is a weather app project that provides real-time weather information based on your location or any city you search for.
 
